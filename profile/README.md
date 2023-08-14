@@ -7,7 +7,7 @@
 [![Join FeatureProbe on Slack](https://img.shields.io/badge/slack-join-blue?logo=slack)](https://join.slack.com/t/featureprobe/shared_invite/zt-1b5qd120x-R~dDbpgL85GgCLTtfNDj0Q)
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/FeatureProbe.svg?style=social&label=FeatureProbe)](https://twitter.com/FeatureProbe)
 
-FeatureProbe is an open source **feature management service**. 
+[FeatureProbe](https://featureprobe.com/) is an open source **feature management service**. 
 It allows R&D, SRE and operation teams to launch new features or switch software implementations with confidence and lower risk.
 FeatureProbe eliminates manual delays through its practice in continuous delivery and is not hindered by the size of a 
 team or the complexity of a product, which allows developers to maintain their velocity. 
